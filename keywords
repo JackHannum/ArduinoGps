@@ -1,0 +1,36 @@
+########################################################################
+# Syntax Coloring Map For Gps
+########################################################################
+
+########################################################################
+# Datatypes (KEYWORD1)
+########################################################################
+Gps			        KEYWORD1
+FixType				KEYWORD1
+NO_FIX				KEYWORD1
+FIX_2D				KEYWORD1
+FIX_3D				KEYWORD1
+FIX_DGPS			KEYWORD1
+
+########################################################################
+# Methods and Functions (KEYWORD2)
+########################################################################
+getLatitude           KEYWORD2
+getLongitude          KEYWORD2
+getAltitude           KEYWORD2
+getSpeed              KEYWORD2
+getFixType            KEYWORD2
+getSatellites         KEYWORD2
+getCourseOverGround   KEYWORD2
+getVerticalSpeedIndicator    KEYWORD2
+getHorizontalDilutionOfPrecision    KEYWORD2
+getVerticalDilutionOfPrecision    KEYWORD2
+getYear               KEYWORD2
+getMonth              KEYWORD2
+getDay                KEYWORD2
+getHour               KEYWORD2
+getMinute             KEYWORD2
+getSecond             KEYWORD2
+getFirmwareVersion    KEYWORD2
+getHardwareVersion    KEYWORD2
+isLocked              KEYWORD2
